@@ -1,6 +1,6 @@
 # Waly Diouf — Portfolio Website
 
-**Live Site:** [walydiouf.github.io/portfolio](https://walydiouf.github.io/portfolio)
+**Live Site:** [wld0905.github.io/portfolio/](https://wld0905.github.io/portfolio/)
 
 > NJIT Information Technology · AFROTC Cadet · Space Force Education Allocation Selectee
 
