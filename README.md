@@ -90,8 +90,8 @@ portfolio/
 ## Contact
 
 - **Email:** waly.diouf@njit.edu
-- **GitHub:** [github.com/walydiouf](https://github.com/walydiouf)
-- **LinkedIn:** [linkedin.com/in/walydiouf](https://linkedin.com/in/walydiouf)
+- **GitHub:** [github.com/wld0905](https://github.com/wld0905/portfolio)
+- **LinkedIn:** [linkedin.com/in/waly-diouf0905](https://www.linkedin.com/in/waly-diouf0905/)
 
 ---
 
